@@ -1,2 +1,2 @@
 # PAG30
-Bibliography for PAG
+[Bibliography for PAG](https://kfletcher88.github.io/PAG30/)
