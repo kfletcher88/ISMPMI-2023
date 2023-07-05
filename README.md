@@ -1,2 +1,2 @@
 # PAG30
-[Bibliography for PAG](https://kfletcher88.github.io/PAG30/)
+[Bibliography for IS-MPMI 2023 Congress](https://kfletcher88.github.io/ISMPMI-2023/)
